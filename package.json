@@ -15,6 +15,7 @@
     "@hilla/generator-typescript-utils": "2.2.0-rc1",
     "@hilla/react-components": "2.1.7",
     "@hilla/react-form": "2.2.0-rc1",
+    "@lunch/components": "git+ssh://git@github.com:platosha/lunch-components.git",
     "@polymer/polymer": "3.5.1",
     "@vaadin/bundles": "24.1.7",
     "@vaadin/common-frontend": "0.0.18",
@@ -110,6 +111,6 @@
       "workbox-core": "7.0.0",
       "workbox-precaching": "7.0.0"
     },
-    "hash": "4943aca2696c5a725d294555edd5e114630a312d94f3d475a3e28c005a5aad9c"
+    "hash": "b3093f1763a58e9858138dae3d0b54bb7e836f11c4c43f0bab02597bdeb595c8"
   }
 }
